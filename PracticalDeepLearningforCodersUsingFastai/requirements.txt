@@ -1,9 +1,4 @@
-numpy
-pandas
-matplotlib
-seaborn
-scipy
-scikit-learn
 fastai
 ddgs
 fastbook
+timm

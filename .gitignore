@@ -1,8 +1,10 @@
 enrondataset/
 PracticalDeepLearningforCodersUsingFastai/bird_or_not/
 PracticalDeepLearningforCodersUsingFastai/bird.jpg
+PracticalDeepLearningforCodersUsingFastai/basset.jpg
 PracticalDeepLearningforCodersUsingFastai/forest.jpg
 PracticalDeepLearningforCodersUsingFastai/bear_classifier.pkl
+PracticalDeepLearningforCodersUsingFastai/lesson3-model.pkl
 PracticalDeepLearningforCodersUsingFastai/bears/
 PracticalDeepLearningforCodersUsingFastai/images/
 **/__pycache__/
